@@ -1,0 +1,26 @@
+./terraform
+.idea
+build-harness.iml
+*.orig
+
+# IntelliJ project files
+.idea
+*.iml
+.terraform
+*.tfplan
+*.tfstate
+*.tfstate.*
+.DS_Store
+*.retry
+*.pyc
+*.jar
+*.stackdump
+*.pem
+
+aric*.zip
+id_rsa*
+lambda-backup.zip
+.vscode
+.vagrant/
+*un~
+*~
